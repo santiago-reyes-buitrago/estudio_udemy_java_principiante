@@ -1,6 +1,6 @@
 package variables_primitivas.constants;
 
-public class Constants {
+public class Constant {
     /**
      * This is the main method which is the entry point of the program.
      *
